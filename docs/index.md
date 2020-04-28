@@ -3,7 +3,7 @@
 - 今食べたいもの
   - ピザ
     1. [ピザーラ](https://www.pizza-la.co.jp/)
-    2. [testページ](./test.html) 
+    1. [testページ](./test.html) 
   - ハンバーガー
   - チーズケーキ
  
